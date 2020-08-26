@@ -1,5 +1,6 @@
 # FinalMultiThreadedFolderReader
-A program, that can read files from any directory folders an duplicate them an any directory
+
+A Multithreaded program, that can read files from any directory folders an duplicate them an any directory
 
 It will ask you to Enter a Dir, to read files from.
 It will then ask you the output Dir, in which it will copy the files
