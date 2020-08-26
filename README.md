@@ -8,6 +8,7 @@ Note, this program is MultiThreaded, so any modifications to the variables in us
 
 Sample Input And output
  {
+ 
  Enter A Dir: 
 /home/arnavdadarya/FilesForReaderProgram
 /home/arnavdadarya/FilesForReaderProgram
@@ -40,7 +41,6 @@ Reading Data...
 Closing File
 Completed Reading Data!
 [Ti-84plusCEcalculator, Thisisatestoftheprogramlol, abcdefg, ArnavDadarya, ArnavAlokPriynkaAarnaothers]
----------------------------------------------
    
 0
 Ti-84plusCEcalculator
@@ -51,7 +51,7 @@ Ti-84plusCEcalculator
 Writing Data To : /home/arnavdadarya/Documents/CopyofData2
 in finally block for file: /home/arnavdadarya/Documents/CopyofData2
 Attempting to close file: /home/arnavdadarya/Documents/CopyofData2
----------------------------------------------
+
     
 2
 abcdefg
@@ -62,7 +62,7 @@ abcdefg
 Writing Data To : /home/arnavdadarya/Documents/CopyofData4
 in finally block for file: /home/arnavdadarya/Documents/CopyofData4
 Attempting to close file: /home/arnavdadarya/Documents/CopyofData4
----------------------------------------------
+
   
 4
 ArnavAlokPriynkaAarnaothers
